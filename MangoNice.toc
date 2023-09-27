@@ -1,0 +1,7 @@
+## Interface: 30402
+## Version: 1.0.1
+## Title: MangoNice
+## Notes: Da kommt noch was
+## Author: Robert H.
+
+MangoNice.lua
